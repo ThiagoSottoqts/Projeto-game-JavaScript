@@ -94,7 +94,7 @@ function posicaoRandomica(){
             case 1: 
                 return 'mosquito2'
 
-            case 3: 
+            case 2: 
                 return 'mosquito3'
         }
     }
